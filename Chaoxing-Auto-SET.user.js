@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         学生评教状况统计
+// @name         超星教务自动评教
 // @namespace    https://github.com/AHCorn/Chaoxing-Auto-SET/
 // @license      GPL-3.0
 // @version      1.0
